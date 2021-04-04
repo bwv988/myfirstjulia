@@ -1,2 +1,3 @@
 # myfirstjulia
-First tests with Julia
+
+Playing with the Julia programming language! ;)
